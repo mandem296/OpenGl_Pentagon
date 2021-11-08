@@ -1,0 +1,3 @@
+C:/Users/mande/CLionProjects/pentagon/cmake-build-debug/CMakeFiles/pentagon.dir
+C:/Users/mande/CLionProjects/pentagon/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/mande/CLionProjects/pentagon/cmake-build-debug/CMakeFiles/rebuild_cache.dir
